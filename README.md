@@ -10,7 +10,7 @@ yum install sshpass
 
 #### Clone the repo
 ```sh
-git clone https://
+git clone https://github.com/vardhan249/K8_test.git
 ```
 
 #### Files Description in ansible
