@@ -1,0 +1,9 @@
+- name: "Setting up K8S Master" 
+  hosts: master
+  roles:
+    - kube-master
+
+- name: "Setting up K8S slave"
+  hosts: slave
+  roles:
+    - kube-node

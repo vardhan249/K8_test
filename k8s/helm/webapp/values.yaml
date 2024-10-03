@@ -1,0 +1,11 @@
+replicaCount: 1
+
+image:
+  repository: vardhan911/webapp
+  tag: "v1"
+
+service:
+  name: my-app
+  type: NodePort
+  port: 8080
+  targetPort: 80
