@@ -40,7 +40,7 @@ git clone https://github.com/vardhan249/K8_test.git
 
 #### Flowchart of Playbook
 <div align="center">
-  <img src="images/Kubernetes_playbook.jpg" alt="Flowchart" width="340">
+  <img src="images/Kubernetes_playbook.jpg" alt="Flowchart" width="360">
 </div>
 
 ## Deploying Application using Helm
