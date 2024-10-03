@@ -39,7 +39,9 @@ git clone https://github.com/vardhan249/K8_test.git
 > NOTE: `nvidia driver` needs to be preinstalled on the worker nodes
 
 #### Flowchart of Playbook
-![Flowchart](images/Kubernetes_playbook.jpg "Flowchart")
+<div align="center">
+  <img src="images/Kubernetes_playbook.jpg" alt="Flowchart" width="300">
+</div>
 
 ## Deploying Application using Helm
 #### Install helm on the client
